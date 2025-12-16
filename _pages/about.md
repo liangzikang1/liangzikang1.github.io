@@ -22,8 +22,8 @@ My research interests include **Embedded Systems**, **Operating Systems**, and r
 - **ICRA** [click here](https://github.com/liangzikang1/ICRA)
 
 ## Education
-- **B.Eng. in Computer Science**, Yanshan University, **2021–2025**
-- **M.S. (Graduate Student)**, Northeastern University (NEU), China, **2025–Present**
+- **Undergraduate in Computer Science**, Yanshan University, **2021–2025**
+- **Graduate in Computer Science**, Northeastern University (NEU), China, **2025–Present**
 
 ## Links
 - GitHub: **[https://github.com/liangzikang1](https://github.com/liangzikang1)**
